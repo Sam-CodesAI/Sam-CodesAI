@@ -1,189 +1,293 @@
 <div align="center">
 
 # ⚡ SAM CODES // SAMARTH NIMANGRE
+### *AI Developer • Automation Builder • Modern Web Engineer • Digital Creator*
+
+<br/>
 
 <a href="https://sam-codes.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=620&height=100&lines=AI+Developer+%26+Automation+Builder;Student+%26+Systems+Creator+(17yo)+%E2%80%A2+Karnataka%2C+India;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+v4;Building+Intelligent+Digital+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=110&lines=AI+Developer+%26+Automation+Builder;Building+Intelligent+Digital+Systems+%26+Automations;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+v4;17yo+Autonomous+Builder+%E2%80%A2+Karnataka%2C+India;Turning+Complex+Problems+Into+Working+Software" alt="Typing SVG" />
 </a>
+
+<br/>
 
 <p align="center">
   <a href="https://sam-codes.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-sam--codes.vercel.app-06080f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38bdf8" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-sam--codes.vercel.app-06080f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0284c7" alt="Live Portfolio" />
   </a>
   <a href="mailto:samarthknimangre@gmail.com">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_BUILDS-06080f?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
+    <img src="https://img.shields.io/badge/⚡_AVAILABILITY-OPEN_FOR_BUILDS-06080f?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=VISITOR+COUNT">
+    <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Count" />
   </a>
 </p>
 
----
-
-### 🌐 Direct Communications & Social Channels
-
-[![Instagram](https://img.shields.io/badge/Instagram-@samarth.buildss-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samarth.buildss/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth_Nimangre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-nimangre-0a3b02421/)
-[![X (Twitter)](https://img.shields.io/badge/X-@Tempest__Store-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tempest_Store)
-[![Reddit](https://img.shields.io/badge/Reddit-u/SamarthBuilds__-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/SamarthBuilds_/)
-[![Email](https://img.shields.io/badge/Email-samarthknimangre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthknimangre@gmail.com)
-
----
+<!-- Quick Action Buttons -->
+<p align="center">
+  <a href="https://www.instagram.com/samarth.buildss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@samarth.buildss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/samarth-nimangre-0a3b02421/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samarth_Nimangre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Tempest_Store" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-@Tempest__Store-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.reddit.com/u/SamarthBuilds_/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-u/SamarthBuilds__-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="mailto:samarthknimangre@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-samarthknimangre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
-## 🧭 About Me & Core Identity
+---
 
-```yaml
-builder_profile:
-  name: "Samarth Nimangre (Sam)"
-  age: 17
-  location: "Karnataka, India"
-  role: "AI Developer • Automation Builder • Digital Creator"
-  primary_stack: ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "Python"]
-  philosophy: "AI as a force multiplier • Working software over claims • Days, not months"
-  current_status: "Shipping production systems & collaborating with founders"
+## 🖥️ System Telemetry // Identity
+
+```ansi
+[36m╭─ sam@sam-codes-workstation ~[0m
+[36m╰─$[0m curl -s https://sam-codes.vercel.app/api/profile
+{
+  "builder": "Samarth Nimangre (Sam)",
+  "age": 17,
+  "location": "Karnataka, India 🇮🇳",
+  "identity": "Student • AI Developer • Automation Builder • Digital Creator",
+  "execution_mindset": "AI as force multiplier • Working systems > hypothetical claims",
+  "turnaround_velocity": "Days, not months",
+  "client_availability": "Available for custom AI apps, automations & web systems",
+  "flagship_platform": "https://sam-codes.vercel.app"
+}
 ```
-
-I am a **17-year-old student and builder based in Karnataka, India**. I work at the intersection of modern web engineering, AI application layer development, and workflow automation. 
-
-Rather than chasing superficial hype, I focus on engineering practical software that solves real bottlenecks — converting manual business workflows into automated pipelines and transforming product concepts into high-converting web applications.
 
 ---
 
-## 🛠️ What I Build
+## ⚡ What I Build & Deploy
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Chatbots & Assistant Systems</h3>
-      <p>Custom conversational interfaces with retrieval-augmented generation (RAG), external tool calling, and deterministic fallbacks for customer support, lead qualification, and internal company wikis.</p>
-      <sub><b>Stack:</b> OpenAI API • Anthropic Claude API • LangChain • Vector Stores</sub>
+      <h3>🤖 1. AI Chatbots & Knowledge Systems</h3>
+      <ul>
+        <li>Context-aware RAG assistants trained on private company documentation</li>
+        <li>Dynamic tool-calling integrations (database queries, lead qualifiers)</li>
+        <li>Deterministic fallbacks with zero-hallucination guardrails</li>
+      </ul>
+      <sub><b>Primary Stack:</b> OpenAI API • Anthropic Claude API • LangChain • Vector DBs</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Business & Workflow Automation</h3>
-      <p>Multi-step automation pipelines connecting webhooks, databases, CRMs, and messaging apps to eliminate repetitive manual operational tasks completely.</p>
-      <sub><b>Stack:</b> Make (Integromat) • n8n • REST Webhooks • Google APIs</sub>
+      <h3>⚡ 2. Business & Workflow Automation</h3>
+      <ul>
+        <li>End-to-end webhook pipelines connecting CRMs, forms & databases</li>
+        <li>Automated WhatsApp / Telegram conversational notification bots</li>
+        <li>Zero-touch data synchronizations eliminating repetitive manual labor</li>
+      </ul>
+      <sub><b>Primary Stack:</b> Make (Integromat) • n8n • REST Webhooks • Google Cloud APIs</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 High-Performance Web Applications</h3>
-      <p>Fast, responsive, dark-mode modern digital platforms built with Next.js 16 App Router, React 19, strict TypeScript, and Tailwind CSS v4 for optimal conversion.</p>
-      <sub><b>Stack:</b> Next.js 16 • React 19 • Tailwind CSS v4 • Lucide • Vercel</sub>
+      <h3>🌐 3. High-Performance Web Platforms</h3>
+      <ul>
+        <li>Modern dark-mode obsidian interfaces with sub-second initial loads</li>
+        <li>Kinetic micro-interactions, responsive Bento Grid layouts & glass styling</li>
+        <li>100% mobile-native responsive touch architecture</li>
+      </ul>
+      <sub><b>Primary Stack:</b> Next.js 16 • React 19 • Tailwind CSS v4 • Lucide • Vercel Edge</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Rapid MVPs & Prototypes</h3>
-      <p>Taking product hypotheses and rough wireframes into functional, interactive, deployed prototypes within days so founders can validate with real users.</p>
-      <sub><b>Stack:</b> Supabase • PostgreSQL • Edge Functions • Tailwind</sub>
+      <h3>🚀 4. Rapid Clickable MVPs</h3>
+      <ul>
+        <li>Converting product concepts into functional web applications in 3–7 days</li>
+        <li>Production auth, relational database schemas & payment checkout flows</li>
+        <li>Built lean and clean to test product-market fit with real users</li>
+      </ul>
+      <sub><b>Primary Stack:</b> Supabase • PostgreSQL • Stripe • Next.js Server Actions</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack & Engineering Arsenal
+## 🏗️ Typical Automation Architecture
 
-### Languages & Core Web
+Here is how I design resilient, production-ready automation workflows for clients:
+
+```
+┌───────────────────────────┐      ┌───────────────────────────┐
+│   INCOMING CLIENT EVENT   │      │    AI AGENT REASONING     │
+│  (Form, WhatsApp, Webhook) │ ───▶ │ (Claude / OpenAI Parsing) │
+└───────────────────────────┘      └───────────────────────────┘
+              │                                  │
+              ▼                                  ▼
+┌───────────────────────────┐      ┌───────────────────────────┐
+│   AUTOMATION DISPATCHER   │      │    DATABASE & REALTIME    │
+│       (Make / n8n)        │ ───▶ │   (Supabase / Postgres)   │
+└───────────────────────────┘      └───────────────────────────┘
+              │                                  │
+              ▼                                  ▼
+┌───────────────────────────┐      ┌───────────────────────────┐
+│  INSTANT NOTIFICATION     │      │   CLIENT DASHBOARD / CRM  │
+│ (WhatsApp / Telegram / DM)│      │  (Next.js 16 Web Portal)  │
+└───────────────────────────┘      └───────────────────────────┘
+```
+
+---
+
+## 🛠️ Comprehensive Tech Arsenal
+
+### 💻 Languages & Core Runtimes
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### Frameworks, Libraries & Styling
+### ⚛️ Frontend & Modern Web Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js_16_(Turbopack)-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Motion_(Framer)-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Lucide_Icons-F56565?style=for-the-badge&logo=feather&logoColor=white" alt="Lucide" />
+  <img src="https://img.shields.io/badge/HTML5_Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas" />
 </p>
 
-### AI & Autonomous Workflows
+### 🧠 AI & Intelligent Workflows
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude_3.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Ollama_(Local_SLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-6366F1?style=for-the-badge&logo=linux&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6366F1?style=for-the-badge&logo=linux&logoColor=white" alt="MCP" />
 </p>
 
-### Databases, Cloud & DevOps
+### ⚙️ Automation, APIs & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/Make_(Integromat)-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/REST_Webhooks-0284C7?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+### 🗄️ Database, Backend & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="API Routes" />
+</p>
+
+### 🚀 Cloud, Hosting & Developer Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 📊 Live GitHub Telemetry & Activity
+## 📊 Live GitHub Telemetry & Stats
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sam-CodesAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Sam-CodesAI GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sam-CodesAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-CodesAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-CodesAI&theme=tokyonight&hide_border=true&background=06080f&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-CodesAI&theme=tokyonight&hide_border=true&background=06080f&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" width="97%" />
   </p>
 </div>
 
 ---
 
-## 🔬 The Lab: Active R&D Explorations
+## 🌟 Flagship Production System
 
-Areas I am actively researching, testing, and building experiments around:
+### 🚀 [**SAM CODES — Personal Platform & Conversion Engine**](https://github.com/Sam-CodesAI/Sam-Codes)
+> **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app)
 
-- 🧠 **Autonomous Multi-Agent Systems:** Supervisory architectures, agent handoffs, self-healing tool call loops.
-- 📦 **Local SLMs (Small Language Models):** Deploying quantized models (Llama 3.2, Qwen 2.5) via Ollama for zero-cost, private offline inference.
-- 🔌 **Model Context Protocol (MCP):** Universal standard integration connecting language models with local developer tools and private databases.
-- ⚡ **Next.js 16 Turbopack & React 19:** Server Actions, optimistic state mutations, and edge streaming interfaces.
-
----
-
-## 🌟 Flagship Repository
-
-### [**Sam-Codes**](https://github.com/Sam-CodesAI/Sam-Codes)
-> **Personal Portfolio & Client Conversion Platform**  
-> Live at [sam-codes.vercel.app](https://sam-codes.vercel.app)
-
-- **Architecture:** Next.js 16 App Router, React 19, Tailwind CSS v4, TypeScript.
-- **Features:** 
-  - Reactive HTML5 living neural canvas with `prefers-reduced-motion` compliance.
-  - Interactive *Ask Sam* deterministic Q&A assistant.
-  - Case study blueprint standard with verifiable evidence metrics.
-  - Strict zero-fabrication policy — zero fake testimonials, zero inflated claims.
+A production personal portfolio and client acquisition platform engineered with modern 2026 web paradigms:
+- **Next.js 16 + React 19 + Turbopack:** Blazing-fast static page generation and edge routing.
+- **Living Neural Canvas:** Custom ambient HTML5 canvas particle system with responsive node scaling, mouse pull, and `prefers-reduced-motion` detection.
+- **Interactive "Ask Sam" Assistant:** Embedded deterministic Q&A agent grounded strictly in verified profile data with zero hallucination.
+- **Strict Zero-Fabrication Standard:** No fake client logos, mock reviews, or vanity metric bars — transparent engineering throughout.
+- **Case Study Blueprint System:** Modular schema for publishing verified production builds with architecture diagrams and evidence metrics.
 
 ---
 
-## 🤝 Why Collaborate With Sam?
+## 🔬 Active Research & The Lab
 
-1. **AI as a Force Multiplier:** I utilize modern AI toolchains to operate at the speed of a multi-person team without the bloat.
-2. **Problem-First Thinking:** I build what solves your operational bottleneck, not what looks flashy on a resume.
-3. **Transparent Building:** Live preview links, clear daily progress updates, and clean Git commits.
-4. **Built to Evolve:** Strict TypeScript, clean component hierarchies, and maintainable architectures ready to scale.
+What I am actively testing, breaking, and building experiments with right now:
+
+| Research Domain | Focus Area | Technology |
+| :--- | :--- | :--- |
+| **Autonomous Agent Loops** | Multi-agent reasoning handoffs & supervisory verification | LangChain, Claude API |
+| **Local SLMs (Edge AI)** | Quantized small language models running offline on edge hardware | Ollama (Llama 3.2, Qwen 2.5) |
+| **Model Context Protocol** | Standardizing tool calling between agents and local environments | Linux MCP SDK |
+| **CSS-First Engine** | Zero-runtime styling performance with Tailwind CSS v4 Oxide | Tailwind v4 Oxide |
 
 ---
 
-## 📬 Start a Project or Say Hi
+## 🤝 The 4 "Why Collaborate With Sam" Principles
 
-Whether you have an automation idea, need a custom AI chatbot, or want a high-converting web app built:
+```
+1. AI AS A FORCE MULTIPLIER ──▶ Lean velocity of an entire team without the bureaucracy.
+2. PROBLEM-FIRST ENGINEERING ──▶ Building for the business outcome, not resume fluff.
+3. TRANSPARENT BUILDING     ──▶ Live preview links, clean daily commits, direct communication.
+4. ARCHITECTED TO SCALE      ──▶ Strict TypeScript types, modular schemas, maintainable handoff.
+```
 
-- 📸 **Instagram:** [@samarth.buildss](https://www.instagram.com/samarth.buildss/) *(Fastest response)*
-- 💼 **LinkedIn:** [Samarth Nimangre](https://www.linkedin.com/in/samarth-nimangre-0a3b02421/)
-- 🐦 **X (Twitter):** [@Tempest_Store](https://x.com/Tempest_Store)
-- 👾 **Reddit:** [u/SamarthBuilds_](https://www.reddit.com/u/SamarthBuilds_/)
-- 📧 **Direct Email:** [samarthknimangre@gmail.com](mailto:samarthknimangre@gmail.com)
+---
+
+## 💬 Frequently Asked Questions (FAQ)
+
+<details>
+  <summary><b>1. What types of projects do you take on?</b></summary>
+  <p>I build custom AI chatbots with RAG, workflow automations connecting webhooks and CRMs, high-converting modern web applications (Next.js & React), and clickable MVPs for founders who need working software shipped fast.</p>
+</details>
+
+<details>
+  <summary><b>2. How fast is your turnaround time?</b></summary>
+  <p>Most automation workflows and conversational bots are deployed in 2 to 5 days. Full custom web platforms or clickable MVPs typically take 1 to 2 weeks with continuous live preview links.</p>
+</details>
+
+<details>
+  <summary><b>3. What is your communication cadence?</b></summary>
+  <p>You work directly with me — no account managers or intermediaries. I provide daily progress updates, share live deployment links as features are completed, and respond to messages within hours.</p>
+</details>
+
+<details>
+  <summary><b>4. What happens after the project is deployed?</b></summary>
+  <p>Every build includes clean documentation, recorded walkthroughs, full repository access, and post-launch support to ensure smooth handover and zero downtime.</p>
+</details>
+
+---
+
+## 📬 Connect & Start a Build
+
+If you have a manual workflow to automate, an AI idea to build, or need a fast, high-converting website:
+
+| Channel | Handle / Coordinate | Best For | Typical Response |
+| :--- | :--- | :--- | :--- |
+| 📸 **Instagram** | [@samarth.buildss](https://www.instagram.com/samarth.buildss/) | Direct chats & quick project discussions | **< 2 hours** |
+| 💼 **LinkedIn** | [Samarth Nimangre](https://www.linkedin.com/in/samarth-nimangre-0a3b02421/) | Professional networking & scopes | **< 4 hours** |
+| 🐦 **X (Twitter)** | [@Tempest_Store](https://x.com/Tempest_Store) | Tech discussions & quick DMs | **< 6 hours** |
+| 👾 **Reddit** | [u/SamarthBuilds_](https://www.reddit.com/u/SamarthBuilds_/) | Community inquiries & demos | **< 8 hours** |
+| 📧 **Direct Email** | [samarthknimangre@gmail.com](mailto:samarthknimangre@gmail.com) | Detailed proposals & RFPs | **< 12 hours** |
+
+<br/>
 
 <div align="center">
-  <sub>© 2026 Samarth Nimangre (SAM CODES). Engineered with curiosity & craft.</sub>
+  <sub>⚡ <b>SAM CODES</b> // Engineered with modern AI velocity, craft, and precision. Karnataka, India.</sub>
 </div>
