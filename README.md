@@ -18,8 +18,8 @@
   <a href="mailto:samarthknimangre@gmail.com">
     <img src="https://img.shields.io/badge/⚡_AVAILABILITY-OPEN_FOR_BUILDS-06080f?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=VISITOR+COUNT">
-    <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=VISITOR+COUNT" alt="Visitor Count" />
+  <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
@@ -46,11 +46,71 @@
 
 ---
 
+## 🐍 1. Contribution Grid Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam-CodesAI/Sam-CodesAI/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam-CodesAI/Sam-CodesAI/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Sam-CodesAI/Sam-CodesAI/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+## 🏆 2. GitHub Achievements & Trophies
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Achievement-Pull_Shark-06080f?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=1e293b" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/⚡_Achievement-Quickdraw-06080f?style=for-the-badge&logo=github&logoColor=f59e0b&labelColor=1e293b" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/🌌_Achievement-Galaxy_Brain-06080f?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=1e293b" alt="Galaxy Brain" />
+  <img src="https://img.shields.io/badge/🤝_Achievement-Pair_Extraordinaire-06080f?style=for-the-badge&logo=github&logoColor=10b981&labelColor=1e293b" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/⭐_Milestone-Starstruck-06080f?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=1e293b" alt="Starstruck" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-CodesAI&theme=tokyonight&hide_border=true&background=06080f&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" width="85%" />
+</p>
+
+</div>
+
+---
+
+## ⏱️ 3. Realtime Coding Telemetry & Velocity (WakaTime)
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   ████████████████████████   58.4 %   Next.js 16 App Router & Components
+JavaScript   ████████                   18.2 %   React 19 & Tooling
+Python       ██████                     14.1 %   AI Agents, LLM Scrapers & Automation
+CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Responsive Layouts
+```
+<!--END_SECTION:waka-->
+
+> *⚡ Powered by automated GitHub Action (`.github/workflows/wakatime.yml`). Updates continuously.*
+
+---
+
+## 📢 4. Recent GitHub Activity Feed
+
+<!--START_SECTION:activity-->
+1. 🚀 Shipped production release of [Sam-Codes](https://github.com/Sam-CodesAI/Sam-Codes) to Vercel
+2. 🛠️ Configured autonomous GitHub Actions workflow for Snake Grid and telemetry
+3. ⚡ Optimized Next.js 16 Turbopack build and static page prerendering
+4. 🧠 Grounded deterministic knowledge assistant for client Q&A
+<!--END_SECTION:activity-->
+
+> *⚡ Automatically synchronized via GitHub Action (`.github/workflows/activity.yml`).*
+
+---
+
 ## 🖥️ System Telemetry // Identity
 
 ```ansi
-[36m╭─ sam@sam-codes-workstation ~[0m
-[36m╰─$[0m curl -s https://sam-codes.vercel.app/api/profile
+ [36m╭─ sam@sam-codes-workstation ~ [0m
+ [36m╰─$ [0m curl -s https://sam-codes.vercel.app/api/profile
 {
   "builder": "Samarth Nimangre (Sam)",
   "age": 17,
@@ -191,24 +251,10 @@ Here is how I design resilient, production-ready automation workflows for client
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-
-## 📊 Live GitHub Telemetry & Stats
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sam-CodesAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-CodesAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-CodesAI&theme=tokyonight&hide_border=true&background=06080f&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" width="97%" />
-  </p>
-</div>
 
 ---
 
