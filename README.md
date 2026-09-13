@@ -31,8 +31,11 @@
   <a href="https://www.linkedin.com/in/samarth-nimangre-0a3b02421/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Samarth_Nimangre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/Tempest_Store" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@Tempest__Store-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://t.me/Samarth1306" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Samarth1306-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://x.com/Sam_CodeAI" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-@Sam__CodeAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.reddit.com/u/SamarthBuilds_/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-u/SamarthBuilds__-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
@@ -258,6 +261,25 @@ Here is how I design resilient, production-ready automation workflows for client
 
 ---
 
+## 🌟 Flagship Open-Source Engineering
+
+### 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB)
+> **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+
+An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered from scratch in pure Python:
+- **Hybrid Vector + Lexical Search:** Combines dense cosine similarity with sparse BM25 probabilistic ranking via Reciprocal Rank Fusion (RRF).
+- **Zero Heavy Dependencies:** Runs purely on Python standard library and NumPy without bloated external vector DB infrastructure.
+- **Production Rigor:** Complete 20/20 test suite passing with persistence, metadata filtering, and HTTP server endpoints.
+
+---
+
+### 🤖 [**TeleFlow Agent — Autonomous Telegram Lead Qualifier & CRM**](https://github.com/Sam-CodesAI/teleflow-agent)
+> **GitHub:** [https://github.com/Sam-CodesAI/teleflow-agent](https://github.com/Sam-CodesAI/teleflow-agent)
+
+An autonomous AI router and lead qualification agent for Telegram communities that parses client intent and synchronizes CRM records in real-time.
+
+---
+
 ## 🌟 Flagship Production System
 
 ### 🚀 [**SAM CODES — Personal Platform & Conversion Engine**](https://github.com/Sam-CodesAI/Sam-Codes)
@@ -328,7 +350,8 @@ If you have a manual workflow to automate, an AI idea to build, or need a fast, 
 | :--- | :--- | :--- | :--- |
 | 📸 **Instagram** | [@samarth.buildss](https://www.instagram.com/samarth.buildss/) | Direct chats & quick project discussions | **< 2 hours** |
 | 💼 **LinkedIn** | [Samarth Nimangre](https://www.linkedin.com/in/samarth-nimangre-0a3b02421/) | Professional networking & scopes | **< 4 hours** |
-| 🐦 **X (Twitter)** | [@Tempest_Store](https://x.com/Tempest_Store) | Tech discussions & quick DMs | **< 6 hours** |
+| ✈️ **Telegram** | [@Samarth1306](https://t.me/Samarth1306) | Instant project inquiries & quick chats | **< 1 hour** |
+| 🐦 **X (Twitter)** | [@Sam_CodeAI](https://x.com/Sam_CodeAI) | Tech discussions & quick DMs | **< 6 hours** |
 | 👾 **Reddit** | [u/SamarthBuilds_](https://www.reddit.com/u/SamarthBuilds_/) | Community inquiries & demos | **< 8 hours** |
 | 📧 **Direct Email** | [samarthknimangre@gmail.com](mailto:samarthknimangre@gmail.com) | Detailed proposals & RFPs | **< 12 hours** |
 
