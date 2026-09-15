@@ -18,6 +18,10 @@
   <a href="mailto:samarthknimangre@gmail.com">
     <img src="https://img.shields.io/badge/⚡_AVAILABILITY-OPEN_FOR_BUILDS-06080f?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
   </a>
+  <a href="https://pypi.org/project/sutradb-core/" target="_blank">
+    <img src="https://img.shields.io/badge/📦_PyPI-sutradb--core_v2.1.0-06080f?style=for-the-badge&logo=pypi&logoColor=38bdf8&labelColor=1e293b" alt="PyPI Package" />
+  </a>
+
   <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
@@ -28,8 +32,8 @@
   <a href="https://www.instagram.com/samarth.buildss/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@samarth.buildss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/samarth-nimangre-0a3b02421/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Samarth_Nimangre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sam-codesai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sam--codesai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/Samarth1306" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@Samarth1306-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -263,13 +267,16 @@ Here is how I design resilient, production-ready automation workflows for client
 
 ## 🌟 Flagship Open-Source Engineering
 
-### 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB)
-> **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+### 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database (v2.1.0 on PyPI)**](https://github.com/Sam-CodesAI/SutraDB)
+> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
 
 An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered from scratch in pure Python:
-- **Hybrid Vector + Lexical Search:** Combines dense cosine similarity with sparse BM25 probabilistic ranking via Reciprocal Rank Fusion (RRF).
-- **Zero Heavy Dependencies:** Runs purely on Python standard library and NumPy without bloated external vector DB infrastructure.
-- **Production Rigor:** Complete 20/20 test suite passing with persistence, metadata filtering, and HTTP server endpoints.
+- **Instant Installation:** `pip install sutradb-core` (only requires `numpy >= 1.24`).
+- **IVF-Flat ANN Indexing (v2.1.0):** Approximate Nearest Neighbor clustering with k-means++ initialization for sublinear query complexity on large vector sets.
+- **Hybrid Dense + Lexical Search:** Robertson-Spärck Jones BM25Okapi combined with SIMD Cosine similarity via Reciprocal Rank Fusion (RRF).
+- **Sub-millisecond Latency:** **0.36ms P50 latency**, 52,000+ docs/sec ingestion throughput.
+- **Thread-Safe & Durable:** `ReadWriteLock` concurrency and append-only CRC32 Write-Ahead Log (WAL) with `.sutra` memory-mapped persistence.
+- **Production Rigor:** **24/24 unit & integration tests passing (100%)**.
 
 ---
 
@@ -282,14 +289,15 @@ An autonomous AI router and lead qualification agent for Telegram communities th
 
 ## 🌟 Flagship Production System
 
-### 🚀 [**SAM CODES — Personal Platform & Conversion Engine**](https://github.com/Sam-CodesAI/Sam-Codes)
+### 🚀 [**SAM CODES — Production Personal Platform & Command Center**](https://github.com/Sam-CodesAI/Sam-Codes)
 > **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app)
 
-A production personal portfolio and client acquisition platform engineered with modern 2026 web paradigms:
-- **Next.js 16 + React 19 + Turbopack:** Blazing-fast static page generation and edge routing.
-- **Living Neural Canvas:** Custom ambient HTML5 canvas particle system with responsive node scaling, mouse pull, and `prefers-reduced-motion` detection.
-- **Interactive "Ask Sam" Assistant:** Embedded deterministic Q&A agent grounded strictly in verified profile data with zero hallucination.
-- **Strict Zero-Fabrication Standard:** No fake client logos, mock reviews, or vanity metric bars — transparent engineering throughout.
+A production personal portfolio and 14-table Supabase administrative command center:
+- **Next.js 16 + React 19 + Turbopack:** Blazing **1.04s TTFB**, sub-2s total page load time, and zero CLS.
+- **Dual Currency Engine:** Interactive USD ($) / INR (₹) switcher for domestic and global clients.
+- **Living Neural Canvas:** Particle network with adaptive node density and `prefers-reduced-motion` compliance.
+- **Interactive "Ask Sam" Assistant:** Sub-500ms deterministic Q&A resolver grounded strictly in verified portfolio data.
+- **Strict Zero-Fabrication Standard:** Real working code, quantitative evidence metrics, and transparent pricing.
 - **Case Study Blueprint System:** Modular schema for publishing verified production builds with architecture diagrams and evidence metrics.
 
 ---
@@ -349,7 +357,7 @@ If you have a manual workflow to automate, an AI idea to build, or need a fast, 
 | Channel | Handle / Coordinate | Best For | Typical Response |
 | :--- | :--- | :--- | :--- |
 | 📸 **Instagram** | [@samarth.buildss](https://www.instagram.com/samarth.buildss/) | Direct chats & quick project discussions | **< 2 hours** |
-| 💼 **LinkedIn** | [Samarth Nimangre](https://www.linkedin.com/in/samarth-nimangre-0a3b02421/) | Professional networking & scopes | **< 4 hours** |
+| 💼 **LinkedIn** | [Samarth Nimangre](https://www.linkedin.com/in/sam-codesai/) | Professional networking & scopes | **< 4 hours** |
 | ✈️ **Telegram** | [@Samarth1306](https://t.me/Samarth1306) | Instant project inquiries & quick chats | **< 1 hour** |
 | 🐦 **X (Twitter)** | [@Sam_CodeAI](https://x.com/Sam_CodeAI) | Tech discussions & quick DMs | **< 6 hours** |
 | 👾 **Reddit** | [u/SamarthBuilds_](https://www.reddit.com/u/SamarthBuilds_/) | Community inquiries & demos | **< 8 hours** |
