@@ -1,48 +1,50 @@
 <div align="center">
 
 # ⚡ SAM CODES // SAMARTH NIMANGRE
-### *AI Developer • Automation Builder • Modern Web Engineer • Digital Creator*
+### *AI Developer • Automation Builder • Modern Web Systems • Systems Engineer*
 
 <br/>
 
 <a href="https://sam-codes.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=110&lines=AI+Developer+%26+Automation+Builder;Building+Intelligent+Digital+Systems+%26+Automations;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+v4;17yo+Autonomous+Builder+%E2%80%A2+Karnataka%2C+India;Turning+Complex+Problems+Into+Working+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=AI+Developer+%26+Automation+Builder;Autonomous+Agents+%26+Intelligent+Pipelines;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+v4;17yo+Autonomous+Builder+%E2%80%A2+Karnataka%2C+India;Turning+Complex+Problems+Into+Working+Software" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
   <a href="https://sam-codes.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-sam--codes.vercel.app-06080f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0284c7" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-sam--codes.vercel.app-04060c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00f0ff" alt="Live Portfolio" />
   </a>
-  <a href="mailto:samarthknimangre@gmail.com">
-    <img src="https://img.shields.io/badge/⚡_AVAILABILITY-OPEN_FOR_BUILDS-06080f?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
+  <a href="https://t.me/Samarth1306" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_AVAILABILITY-OPEN_FOR_BUILDS-04060c?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
   </a>
   <a href="https://pypi.org/project/sutradb-core/" target="_blank">
-    <img src="https://img.shields.io/badge/📦_PyPI-sutradb--core_v2.1.1-06080f?style=for-the-badge&logo=pypi&logoColor=38bdf8&labelColor=1e293b" alt="PyPI Package" />
+    <img src="https://img.shields.io/badge/📦_PyPI-sutradb--core_v2.1.1-04060c?style=for-the-badge&logo=pypi&logoColor=00f0ff&labelColor=1e293b" alt="PyPI Package" />
   </a>
-
-  <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 <!-- Quick Action Buttons -->
 <p align="center">
-  <a href="https://www.instagram.com/samarth.buildss/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@samarth.buildss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://t.me/Samarth1306" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Samarth1306-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/918550816706" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+91_8550816706-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/sam-codesai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-sam--codesai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Samarth1306" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@Samarth1306-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://x.com/Sam_CodeAI" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-@Sam__CodeAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.reddit.com/u/SamarthBuilds_/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-u/SamarthBuilds__-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <a href="https://www.instagram.com/samarth.buildss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@samarth.buildss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:samarthknimangre@gmail.com">
     <img src="https://img.shields.io/badge/Direct_Email-samarthknimangre@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -65,20 +67,20 @@
 
 ---
 
-## 🏆 2. GitHub Achievements & Trophies
+## 🏆 2. GitHub Achievements & Streak Velocity
 
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Achievement-Pull_Shark-06080f?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=1e293b" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/⚡_Achievement-Quickdraw-06080f?style=for-the-badge&logo=github&logoColor=f59e0b&labelColor=1e293b" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/🌌_Achievement-Galaxy_Brain-06080f?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=1e293b" alt="Galaxy Brain" />
-  <img src="https://img.shields.io/badge/🤝_Achievement-Pair_Extraordinaire-06080f?style=for-the-badge&logo=github&logoColor=10b981&labelColor=1e293b" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/⭐_Milestone-Starstruck-06080f?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=1e293b" alt="Starstruck" />
+  <img src="https://img.shields.io/badge/🏆_Achievement-Pull_Shark-04060c?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=1e293b" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/⚡_Achievement-Quickdraw-04060c?style=for-the-badge&logo=github&logoColor=f59e0b&labelColor=1e293b" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/🌌_Achievement-Galaxy_Brain-04060c?style=for-the-badge&logo=github&logoColor=8b5cf6&labelColor=1e293b" alt="Galaxy Brain" />
+  <img src="https://img.shields.io/badge/🤝_Achievement-Pair_Extraordinaire-04060c?style=for-the-badge&logo=github&logoColor=10b981&labelColor=1e293b" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/⭐_Milestone-Starstruck-04060c?style=for-the-badge&logo=github&logoColor=ec4899&labelColor=1e293b" alt="Starstruck" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-CodesAI&theme=tokyonight&hide_border=true&background=06080f&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-CodesAI&theme=tokyonight&hide_border=true&background=04060c&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" alt="GitHub Streak Stats" width="85%" />
 </p>
 
 </div>
@@ -116,15 +118,16 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 ## 🖥️ System Telemetry // Identity
 
 ```ansi
- [36m╭─ sam@sam-codes-workstation ~ [0m
- [36m╰─$ [0m curl -s https://sam-codes.vercel.app/api/profile
+[36m╭─ sam@sam-codes-workstation ~ [0m
+[36m╰─$ [0m curl -s https://sam-codes.vercel.app/api/profile
 {
   "builder": "Samarth Nimangre (Sam)",
   "age": 17,
   "location": "Karnataka, India 🇮🇳",
-  "identity": "Student • AI Developer • Automation Builder • Digital Creator",
+  "identity": "Student • AI Developer • Automation Builder • Systems Engineer",
+  "design_direction": "Element (Obsidian #04060c • Electric Cyan #00f0ff • Subtle Violet #8b5cf6)",
   "execution_mindset": "AI as force multiplier • Working systems > hypothetical claims",
-  "turnaround_velocity": "Days, not months",
+  "turnaround_velocity": "24–48 hours for automations; 3–7 days for full MVPs",
   "client_availability": "Available for custom AI apps, automations & web systems",
   "flagship_platform": "https://sam-codes.vercel.app"
 }
@@ -137,20 +140,20 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 1. AI Chatbots & Knowledge Systems</h3>
+      <h3>🤖 1. Autonomous AI Agents & Intake Engines</h3>
       <ul>
-        <li>Context-aware RAG assistants trained on private company documentation</li>
-        <li>Dynamic tool-calling integrations (database queries, lead qualifiers)</li>
-        <li>Deterministic fallbacks with zero-hallucination guardrails</li>
+        <li><b>Telegram 24/7 AI Lead Qualifier:</b> Multi-turn semantic brief analysis with Gemini 3.1 Flash Lite & direct CRM ingestion.</li>
+        <li><b>WhatsApp Multi-Device Companion Bridge:</b> Baileys daemon with Supabase cloud session recovery.</li>
+        <li><b>Deterministic Guardrails:</b> Strict zero-hallucination policies and real-time alerts.</li>
       </ul>
-      <sub><b>Primary Stack:</b> OpenAI API • Anthropic Claude API • LangChain • Vector DBs</sub>
+      <sub><b>Primary Stack:</b> Gemini API • Baileys • Telegram Bot API • Supabase • Webhooks</sub>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ 2. Business & Workflow Automation</h3>
       <ul>
-        <li>End-to-end webhook pipelines connecting CRMs, forms & databases</li>
-        <li>Automated WhatsApp / Telegram conversational notification bots</li>
-        <li>Zero-touch data synchronizations eliminating repetitive manual labor</li>
+        <li>End-to-end webhook pipelines connecting CRMs, forms, and databases.</li>
+        <li>Automated WhatsApp / Telegram conversational notification bots.</li>
+        <li>Zero-touch data synchronizations eliminating repetitive manual labor.</li>
       </ul>
       <sub><b>Primary Stack:</b> Make (Integromat) • n8n • REST Webhooks • Google Cloud APIs</sub>
     </td>
@@ -159,20 +162,20 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
     <td width="50%" valign="top">
       <h3>🌐 3. High-Performance Web Platforms</h3>
       <ul>
-        <li>Modern dark-mode obsidian interfaces with sub-second initial loads</li>
-        <li>Kinetic micro-interactions, responsive Bento Grid layouts & glass styling</li>
-        <li>100% mobile-native responsive touch architecture</li>
+        <li>Modern dark-mode obsidian interfaces with sub-second initial loads.</li>
+        <li>Kinetic micro-interactions, responsive Bento Grid layouts & glass styling.</li>
+        <li>Hardware-accelerated contextual cursor and ambient neural fields.</li>
       </ul>
       <sub><b>Primary Stack:</b> Next.js 16 • React 19 • Tailwind CSS v4 • Lucide • Vercel Edge</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 4. Rapid Clickable MVPs</h3>
+      <h3>🚀 4. Rapid Clickable MVPs & Systems</h3>
       <ul>
-        <li>Converting product concepts into functional web applications in 3–7 days</li>
-        <li>Production auth, relational database schemas & payment checkout flows</li>
-        <li>Built lean and clean to test product-market fit with real users</li>
+        <li>Converting product concepts into functional web applications in 3–7 days.</li>
+        <li>Production auth, relational database schemas & payment checkout flows.</li>
+        <li>Hardened edge boundaries with CSRF protection and HMAC-SHA256 tokens.</li>
       </ul>
-      <sub><b>Primary Stack:</b> Supabase • PostgreSQL • Stripe • Next.js Server Actions</sub>
+      <sub><b>Primary Stack:</b> Supabase • PostgreSQL 17 • Web Crypto • Server Actions</sub>
     </td>
   </tr>
 </table>
@@ -181,12 +184,10 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 
 ## 🏗️ Typical Automation Architecture
 
-Here is how I design resilient, production-ready automation workflows for clients:
-
 ```
 ┌───────────────────────────┐      ┌───────────────────────────┐
 │   INCOMING CLIENT EVENT   │      │    AI AGENT REASONING     │
-│  (Form, WhatsApp, Webhook) │ ───▶ │ (Claude / OpenAI Parsing) │
+│  (Form, WhatsApp, Webhook) │ ───▶ │ (Gemini 3.1 / LLM Engine) │
 └───────────────────────────┘      └───────────────────────────┘
               │                                  │
               ▼                                  ▼
@@ -229,38 +230,28 @@ Here is how I design resilient, production-ready automation workflows for client
 
 ### 🧠 AI & Intelligent Workflows
 <p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini_3.1_Flash_Lite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic_Claude_3.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Ollama_(Local_SLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6366F1?style=for-the-badge&logo=linux&logoColor=white" alt="MCP" />
 </p>
 
-### ⚙️ Automation, APIs & Integrations
+### ⚙️ Automation, Messaging & Integrations
 <p align="left">
+  <img src="https://img.shields.io/badge/Baileys_WhatsApp_Bridge-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   <img src="https://img.shields.io/badge/Make_(Integromat)-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/REST_Webhooks-0284C7?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks" />
-  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  <img src="https://img.shields.io/badge/Stripe_Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
-### 🗄️ Database, Backend & Storage
+### 🗄️ Database, Security & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="API Routes" />
-</p>
-
-### 🚀 Cloud, Hosting & Developer Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Web_Crypto_HMAC-6366F1?style=for-the-badge&logo=shield&logoColor=white" alt="Web Crypto" />
+  <img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="RLS" />
 </p>
 
 ---
@@ -270,20 +261,26 @@ Here is how I design resilient, production-ready automation workflows for client
 ### 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database (v2.1.1 on PyPI)**](https://github.com/Sam-CodesAI/SutraDB)
 > **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
 
-An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered from scratch in pure Python:
+An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered in pure Python:
 - **Instant Installation:** `pip install sutradb-core` (only requires `numpy >= 1.24`).
 - **IVF-Flat ANN Indexing (v2.1.1):** Approximate Nearest Neighbor clustering with k-means++ initialization for sublinear query complexity on large vector sets.
 - **Hybrid Dense + Lexical Search:** Robertson-Spärck Jones BM25Okapi combined with SIMD Cosine similarity via Reciprocal Rank Fusion (RRF).
 - **Sub-millisecond Latency:** **0.36ms P50 latency**, 52,000+ docs/sec ingestion throughput.
 - **Thread-Safe & Durable:** `ReadWriteLock` concurrency and append-only CRC32 Write-Ahead Log (WAL) with `.sutra` memory-mapped persistence.
-- **Production Rigor:** **24/24 unit & integration tests passing (100%)**.
 
 ---
 
-### 🤖 [**TeleFlow Agent — Autonomous Telegram Lead Qualifier & CRM**](https://github.com/Sam-CodesAI/teleflow-agent)
-> **GitHub:** [https://github.com/Sam-CodesAI/teleflow-agent](https://github.com/Sam-CodesAI/teleflow-agent)
+### 🎙️ [**VaniEdge AI — Sub-Second Multilingual Voice Studio**](https://github.com/Sam-CodesAI/VaniEdge)
+> **GitHub:** [https://github.com/Sam-CodesAI/VaniEdge](https://github.com/Sam-CodesAI/VaniEdge)
 
-An autonomous AI router and lead qualification agent for Telegram communities that parses client intent and synchronizes CRM records in real-time.
+Edge-native conversational AI assistant supporting real-time Indian accent adaptation, dynamic personas, and low-latency audio pipelines.
+
+---
+
+### 📞 [**Twilio Voice Agent Failover Engine**](https://github.com/Sam-CodesAI/Twilio-Voice-Agent-Failover)
+> **GitHub:** [https://github.com/Sam-CodesAI/Twilio-Voice-Agent-Failover](https://github.com/Sam-CodesAI/Twilio-Voice-Agent-Failover)
+
+Cloudflare Worker edge failover architecture for voice agents, ensuring sub-50ms fallback transitions during upstream outages.
 
 ---
 
@@ -293,35 +290,20 @@ An autonomous AI router and lead qualification agent for Telegram communities th
 > **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app)
 
 A production personal portfolio and 14-table Supabase administrative command center:
-- **Next.js 16 + React 19 + Turbopack:** Blazing **1.04s TTFB**, sub-2s total page load time, and zero CLS.
-- **Dual Currency Engine:** Interactive USD ($) / INR (₹) switcher for domestic and global clients.
-- **Living Neural Canvas:** Particle network with adaptive node density and `prefers-reduced-motion` compliance.
-- **Interactive "Ask Sam" Assistant:** Sub-500ms deterministic Q&A resolver grounded strictly in verified portfolio data.
-- **Strict Zero-Fabrication Standard:** Real working code, quantitative evidence metrics, and transparent pricing.
-- **Case Study Blueprint System:** Modular schema for publishing verified production builds with architecture diagrams and evidence metrics.
-
----
-
-## 🔬 Active Research & The Lab
-
-What I am actively testing, breaking, and building experiments with right now:
-
-| Research Domain | Focus Area | Technology |
-| :--- | :--- | :--- |
-| **Autonomous Agent Loops** | Multi-agent reasoning handoffs & supervisory verification | LangChain, Claude API |
-| **Local SLMs (Edge AI)** | Quantized small language models running offline on edge hardware | Ollama (Llama 3.2, Qwen 2.5) |
-| **Model Context Protocol** | Standardizing tool calling between agents and local environments | Linux MCP SDK |
-| **CSS-First Engine** | Zero-runtime styling performance with Tailwind CSS v4 Oxide | Tailwind v4 Oxide |
+- **Next.js 16 + React 19 + Turbopack:** Blazing **sub-2s initial load**, zero CLS, and Element Direction aesthetics (`#04060c` obsidian palette with electric cyan accents).
+- **Autonomous Outreach Daemons:** 24/7 Telegram AI Qualifier Bot + WhatsApp Companion Bridge.
+- **Hardened Edge Boundary:** Request proxying (`src/proxy.ts`), CSRF protection, constant-time authentication (`crypto.timingSafeEqual`), and Row-Level Security isolation.
+- **Interactive "Ask Sam" Assistant:** Grounded Q&A assistant resolving technical capabilities, pricing, and availability.
 
 ---
 
 ## 🤝 The 4 "Why Collaborate With Sam" Principles
 
 ```
-1. AI AS A FORCE MULTIPLIER ──▶ Lean velocity of an entire team without the bureaucracy.
+1. AI AS A FORCE MULTIPLIER ──▶ Lean velocity of an entire team without bureaucracy.
 2. PROBLEM-FIRST ENGINEERING ──▶ Building for the business outcome, not resume fluff.
-3. TRANSPARENT BUILDING     ──▶ Live preview links, clean daily commits, direct communication.
-4. ARCHITECTED TO SCALE      ──▶ Strict TypeScript types, modular schemas, maintainable handoff.
+3. TRANSPARENT BUILDING     ──▶ Live preview links, daily commits, direct communication.
+4. ARCHITECTED TO SCALE      ──▶ Strict TypeScript, modular schemas, maintainable handoff.
 ```
 
 ---
@@ -330,12 +312,12 @@ What I am actively testing, breaking, and building experiments with right now:
 
 <details>
   <summary><b>1. What types of projects do you take on?</b></summary>
-  <p>I build custom AI chatbots with RAG, workflow automations connecting webhooks and CRMs, high-converting modern web applications (Next.js & React), and clickable MVPs for founders who need working software shipped fast.</p>
+  <p>I build autonomous AI chatbots with RAG, workflow automations connecting webhooks and CRMs, high-converting modern web applications (Next.js & React), and clickable MVPs for founders who need working software shipped fast.</p>
 </details>
 
 <details>
   <summary><b>2. How fast is your turnaround time?</b></summary>
-  <p>Most automation workflows and conversational bots are deployed in 2 to 5 days. Full custom web platforms or clickable MVPs typically take 1 to 2 weeks with continuous live preview links.</p>
+  <p>Most automation workflows and conversational bots are deployed in 24 to 48 hours. Full custom web platforms or clickable MVPs typically take 3 to 7 days with continuous live preview links.</p>
 </details>
 
 <details>
@@ -352,15 +334,14 @@ What I am actively testing, breaking, and building experiments with right now:
 
 ## 📬 Connect & Start a Build
 
-If you have a manual workflow to automate, an AI idea to build, or need a fast, high-converting website:
-
 | Channel | Handle / Coordinate | Best For | Typical Response |
 | :--- | :--- | :--- | :--- |
-| 📸 **Instagram** | [@samarth.buildss](https://www.instagram.com/samarth.buildss/) | Direct chats & quick project discussions | **< 2 hours** |
-| 💼 **LinkedIn** | [Samarth Nimangre](https://www.linkedin.com/in/sam-codesai/) | Professional networking & scopes | **< 4 hours** |
-| ✈️ **Telegram** | [@Samarth1306](https://t.me/Samarth1306) | Instant project inquiries & quick chats | **< 1 hour** |
-| 🐦 **X (Twitter)** | [@Sam_CodeAI](https://x.com/Sam_CodeAI) | Tech discussions & quick DMs | **< 6 hours** |
+| ✈️ **Telegram** | [@Samarth1306](https://t.me/Samarth1306) | Instant project inquiries & fastest scoping | **< 1 hour** |
+| 💬 **WhatsApp** | [+91 8550816706](https://wa.me/918550816706) | Direct intake & mobile discussions | **< 2 hours** |
+| 💼 **LinkedIn** | [Samarth Nimangre](https://www.linkedin.com/in/sam-codesai/) | Professional networking & contract scopes | **< 4 hours** |
+| 🐦 **X (Twitter)** | [@Sam_CodeAI](https://x.com/Sam_CodeAI) | Tech discussions & public updates | **< 6 hours** |
 | 👾 **Reddit** | [u/SamarthBuilds_](https://www.reddit.com/u/SamarthBuilds_/) | Community inquiries & demos | **< 8 hours** |
+| 📸 **Instagram** | [@samarth.buildss](https://www.instagram.com/samarth.buildss/) | Direct chats & social updates | **< 2 hours** |
 | 📧 **Direct Email** | [samarthknimangre@gmail.com](mailto:samarthknimangre@gmail.com) | Detailed proposals & RFPs | **< 12 hours** |
 
 <br/>
