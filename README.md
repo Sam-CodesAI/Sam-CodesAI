@@ -1,12 +1,12 @@
 <div align="center">
 
 # ⚡ SAM CODES // SAMARTH NIMANGRE
-### *AI Developer • Automation Builder • Modern Web Systems • Systems Engineer*
+### *Full-Stack Developer & Cloud Automation Engineer*
 
 <br/>
 
 <a href="https://sam-codes.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=AI+Developer+%26+Automation+Builder;Autonomous+Agents+%26+Intelligent+Pipelines;Next.js+16+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+v4;17yo+Autonomous+Builder+%E2%80%A2+Karnataka%2C+India;Turning+Complex+Problems+Into+Working+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Full-Stack+Developer+%26+Cloud+Automation+Engineer;Production+Web+Apps+with+Next.js+16+%26+React+19;Relational+Databases+%26+RLS+with+Supabase;Asynchronous+Automation+Pipelines+%26+Webhooks;Karnataka%2C+India+%E2%80%A2+Zero+Fabrication" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -121,15 +121,14 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 [36m╭─ sam@sam-codes-workstation ~ [0m
 [36m╰─$ [0m curl -s https://sam-codes.vercel.app/api/profile
 {
-  "builder": "Samarth Nimangre (Sam)",
-  "age": 17,
+  "developer": "Samarth Nimangre (Sam)",
+  "role": "Full-Stack Developer & Cloud Automation Engineer",
   "location": "Karnataka, India 🇮🇳",
-  "identity": "Student • AI Developer • Automation Builder • Systems Engineer",
-  "design_direction": "Element (Obsidian #04060c • Electric Cyan #00f0ff • Subtle Violet #8b5cf6)",
-  "execution_mindset": "AI as force multiplier • Working systems > hypothetical claims",
-  "turnaround_velocity": "24–48 hours for automations; 3–7 days for full MVPs",
-  "client_availability": "Available for custom AI apps, automations & web systems",
-  "flagship_platform": "https://sam-codes.vercel.app"
+  "headline": "I build production-grade web applications with Next.js, architect relational databases with Supabase, and build asynchronous automation pipelines for real-world workflows.",
+  "core_stack": ["Next.js 16 (App Router)", "TypeScript", "Python 3.12", "Supabase", "PostgreSQL (RLS)", "Tailwind CSS v4"],
+  "turnaround_velocity": "24–48 hours for automations; 3–7 days for full production systems",
+  "availability": "Available for production builds & automation pipelines",
+  "live_portfolio": "https://sam-codes.vercel.app"
 }
 ```
 
@@ -256,44 +255,57 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 
 ---
 
-## 🌟 Flagship Open-Source Engineering
+## 🌟 4 Flagship Production Systems (Live Proof of Work)
 
-### 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database (v2.1.1 on PyPI)**](https://github.com/Sam-CodesAI/SutraDB)
-> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+### 1. 🚀 [**SAM CODES — Production Platform & Command Center**](https://github.com/Sam-CodesAI/Sam-Codes)
+> **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app) · **GitHub:** [https://github.com/Sam-CodesAI/Sam-Codes](https://github.com/Sam-CodesAI/Sam-Codes)
+
+A full-stack production platform and 14-table Supabase administrative command center:
+* **The Pitch:** Consolidates 14 database tables, telemetry analytics, and 24/7 client intake daemons into a unified Next.js 16 portal.
+* **Architecture Specs:**
+  * **Frontend:** Next.js 16 (App Router), React 19, Turbopack, Tailwind CSS v4.
+  * **Data Layer:** Supabase PostgreSQL with 14 RLS tables and automated SHA-256 database snapshots.
+  * **Security & Edge:** Request proxying (`src/proxy.ts`), CSRF shielding, Web Crypto HMAC-SHA256 session verification.
+* **Performance:** Sub-2s initial load, zero Cumulative Layout Shift (CLS), and 100% platform availability across 49 routes.
+
+---
+
+### 2. 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB)
+> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) (v2.1.1 Live) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
 
 An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered in pure Python:
-- **Instant Installation:** `pip install sutradb-core` (only requires `numpy >= 1.24`).
-- **IVF-Flat ANN Indexing (v2.1.1):** Approximate Nearest Neighbor clustering with k-means++ initialization for sublinear query complexity on large vector sets.
-- **Hybrid Dense + Lexical Search:** Robertson-Spärck Jones BM25Okapi combined with SIMD Cosine similarity via Reciprocal Rank Fusion (RRF).
-- **Sub-millisecond Latency:** **0.36ms P50 latency**, 52,000+ docs/sec ingestion throughput.
-- **Thread-Safe & Durable:** `ReadWriteLock` concurrency and append-only CRC32 Write-Ahead Log (WAL) with `.sutra` memory-mapped persistence.
+* **The Pitch:** Eliminates 50ms cloud SaaS roundtrips and multi-gigabyte container overhead with sub-0.4ms P50 hybrid retrieval in pure Python.
+* **Architecture Specs:**
+  * **Core Engine:** Pure Python 3.12, NumPy BLAS (GEMV SIMD pre-normalized unit vectors).
+  * **Data Layer:** Zero-copy mmap (`.sutra` binary container) + append-only CRC32 Write-Ahead Log (WAL).
+  * **Hybrid Search:** Robertson-Spärck Jones BM25Okapi + SIMD Cosine similarity via Reciprocal Rank Fusion (RRF).
+* **Performance:** **0.36ms P50 latency**, 52,000+ docs/sec ingestion throughput, ~22MB RAM footprint for 5,000 documents.
 
 ---
 
-### 🎙️ [**VaniEdge AI — Sub-Second Multilingual Voice Studio**](https://github.com/Sam-CodesAI/VaniEdge)
-> **GitHub:** [https://github.com/Sam-CodesAI/VaniEdge](https://github.com/Sam-CodesAI/VaniEdge)
+### 3. 🤖 [**Automated Client Intake & Notification Engine**](https://github.com/Sam-CodesAI/teleflow-agent)
+> **Live Demo:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app) · **GitHub:** [https://github.com/Sam-CodesAI/teleflow-agent](https://github.com/Sam-CodesAI/teleflow-agent)
 
-Edge-native conversational AI assistant supporting real-time Indian accent adaptation, dynamic personas, and low-latency audio pipelines.
+An asynchronous conversational lead qualification & edge CRM router:
+* **The Pitch:** Eliminates lost customer inquiries by routing web form submissions directly to business operators' phones within 3 seconds.
+* **Architecture Specs:**
+  * **Frontend:** Next.js 16 (App Router), TypeScript, Tailwind CSS.
+  * **Data Layer:** Supabase (PostgreSQL) with Row-Level Security (RLS) policies.
+  * **Integration:** Real-time Telegram Bot API webhooks and automated state updates.
+* **Performance:** Multi-turn conversation state machine with 100% schema compliance and sub-300ms response turnaround.
 
 ---
 
-### 📞 [**Twilio Voice Agent Failover Engine**](https://github.com/Sam-CodesAI/Twilio-Voice-Agent-Failover)
-> **GitHub:** [https://github.com/Sam-CodesAI/Twilio-Voice-Agent-Failover](https://github.com/Sam-CodesAI/Twilio-Voice-Agent-Failover)
+### 4. 🎙️ [**VaniEdge AI — Sub-Second Multilingual Voice Studio**](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform)
+> **GitHub:** [https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform) · **Live Site:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app)
 
-Cloudflare Worker edge failover architecture for voice agents, ensuring sub-50ms fallback transitions during upstream outages.
-
----
-
-## 🌟 Flagship Production System
-
-### 🚀 [**SAM CODES — Production Personal Platform & Command Center**](https://github.com/Sam-CodesAI/Sam-Codes)
-> **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app)
-
-A production personal portfolio and 14-table Supabase administrative command center:
-- **Next.js 16 + React 19 + Turbopack:** Blazing **sub-2s initial load**, zero CLS, and Element Direction aesthetics (`#04060c` obsidian palette with electric cyan accents).
-- **Autonomous Outreach Daemons:** 24/7 Telegram AI Qualifier Bot + WhatsApp Companion Bridge.
-- **Hardened Edge Boundary:** Request proxying (`src/proxy.ts`), CSRF protection, constant-time authentication (`crypto.timingSafeEqual`), and Row-Level Security isolation.
-- **Interactive "Ask Sam" Assistant:** Grounded Q&A assistant resolving technical capabilities, pricing, and availability.
+Edge-native voice AI telephony assistant supporting real-time Indian accent adaptation and low-latency audio pipelines:
+* **The Pitch:** Eliminates robotic IVR delays by streaming sub-second, accent-adaptive voice conversations through Twilio SIP trunks with SutraDB RAG.
+* **Architecture Specs:**
+  * **Frontend:** Next.js 16 Edge, Web Audio API visualizers, dynamic persona switcher.
+  * **Data Layer:** SutraDB sub-millisecond grounded RAG + session memory buffer.
+  * **Integration:** Twilio SIP Trunking + ElevenLabs streaming WebSocket engine.
+* **Performance:** Sub-second speech turnaround (<850ms TTL) with <50ms Cloudflare Worker edge failover.
 
 ---
 
