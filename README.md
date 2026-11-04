@@ -255,13 +255,13 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 
 ---
 
-## 🌟 4 Flagship Production Systems (Live Proof of Work)
+## 🌟 5 Flagship Production Systems (v2.0.0 Live Proof of Work)
 
-### 1. 🚀 [**SAM CODES — Production Platform & Command Center**](https://github.com/Sam-CodesAI/Sam-Codes)
-> **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app) · **GitHub:** [https://github.com/Sam-CodesAI/Sam-Codes](https://github.com/Sam-CodesAI/Sam-Codes)
+### 1. 🚀 [**SAM CODES — Production Platform & Command Center**](https://github.com/Sam-CodesAI/Sam-Codes) `v2.0.0`
+> **Live Deployment:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app) · **GitHub:** [https://github.com/Sam-CodesAI/Sam-Codes](https://github.com/Sam-CodesAI/Sam-Codes) · **Release:** [`v2.0.0`](https://github.com/Sam-CodesAI/Sam-Codes/releases/tag/v2.0.0)
 
 A full-stack production platform and 14-table Supabase administrative command center:
-* **The Pitch:** Consolidates 14 database tables, telemetry analytics, and 24/7 client intake daemons into a unified Next.js 16 portal.
+* **The Pitch:** Consolidates 14 database tables, telemetry analytics, SutraDB semantic RAG (`/api/assistant`), and 24/7 client intake daemons into a unified Next.js 16 portal.
 * **Architecture Specs:**
   * **Frontend:** Next.js 16 (App Router), React 19, Turbopack, Tailwind CSS v4.
   * **Data Layer:** Supabase PostgreSQL with 14 RLS tables and automated SHA-256 database snapshots.
@@ -270,42 +270,55 @@ A full-stack production platform and 14-table Supabase administrative command ce
 
 ---
 
-### 2. 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB)
-> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) (v2.1.1 Live) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+### 2. 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB) `v2.0.0`
+> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB) · **Release:** [`v2.0.0`](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v2.0.0)
 
 An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered in pure Python:
-* **The Pitch:** Eliminates 50ms cloud SaaS roundtrips and multi-gigabyte container overhead with sub-0.4ms P50 hybrid retrieval in pure Python.
+* **The Pitch:** Eliminates 50ms cloud SaaS roundtrips and multi-gigabyte container overhead with sub-0.4ms P50 hybrid retrieval, FastAPI ASGI server, and candidate-pruned RRF.
 * **Architecture Specs:**
-  * **Core Engine:** Pure Python 3.12, NumPy BLAS (GEMV SIMD pre-normalized unit vectors).
-  * **Data Layer:** Zero-copy mmap (`.sutra` binary container) + append-only CRC32 Write-Ahead Log (WAL).
-  * **Hybrid Search:** Robertson-Spärck Jones BM25Okapi + SIMD Cosine similarity via Reciprocal Rank Fusion (RRF).
+  * **Core Engine:** Pure Python 3.12, NumPy BLAS (GEMV SIMD pre-normalized unit vectors), Writer-Preference `ReadWriteLock`.
+  * **Data Layer:** Zero-copy mmap (`.sutra` binary container) + append-only CRC32 Write-Ahead Log (WAL) with bitmask soft tombstones.
+  * **Hybrid Search:** Robertson-Spärck Jones BM25Okapi + SIMD Cosine similarity via Candidate-Pruned Reciprocal Rank Fusion (RRF).
 * **Performance:** **0.36ms P50 latency**, 52,000+ docs/sec ingestion throughput, ~22MB RAM footprint for 5,000 documents.
 
 ---
 
-### 3. 🤖 [**Automated Client Intake & Notification Engine**](https://github.com/Sam-CodesAI/teleflow-agent)
-> **Live Demo:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app) · **GitHub:** [https://github.com/Sam-CodesAI/teleflow-agent](https://github.com/Sam-CodesAI/teleflow-agent)
+### 3. 🎙️ [**VaniEdge AI — Sub-Second Multilingual Voice Studio**](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform) `v2.0.0`
+> **GitHub:** [https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform) · **Release:** [`v2.0.0`](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform/releases/tag/v2.0.0)
 
-An asynchronous conversational lead qualification & edge CRM router:
-* **The Pitch:** Eliminates lost customer inquiries by routing web form submissions directly to business operators' phones within 3 seconds.
+Edge-native voice AI telephony assistant supporting real-time Indian accent adaptation and low-latency audio pipelines:
+* **The Pitch:** Eliminates robotic IVR delays by streaming sub-second, accent-adaptive voice conversations through Twilio SIP trunks with SutraDB RAG and Cloudflare Workers.
 * **Architecture Specs:**
-  * **Frontend:** Next.js 16 (App Router), TypeScript, Tailwind CSS.
-  * **Data Layer:** Supabase (PostgreSQL) with Row-Level Security (RLS) policies.
-  * **Integration:** Real-time Telegram Bot API webhooks and automated state updates.
-* **Performance:** Multi-turn conversation state machine with 100% schema compliance and sub-300ms response turnaround.
+  * **Frontend & Edge:** Next.js 16 Edge, Cloudflare Worker per-request `env` injection, zero filesystem disk writes.
+  * **Data Layer:** SutraDB sub-millisecond grounded RAG + session memory buffer with LRU caching.
+  * **Integration:** Twilio SIP Trunking + ElevenLabs streaming WebSocket engine with sub-second failover watchdog.
+* **Performance:** Sub-second speech turnaround (<850ms TTL) with <50ms Cloudflare Worker edge failover.
 
 ---
 
-### 4. 🎙️ [**VaniEdge AI — Sub-Second Multilingual Voice Studio**](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform)
-> **GitHub:** [https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform) · **Live Site:** [https://sam-codes.vercel.app](https://sam-codes.vercel.app)
+### 4. 📌 [**PinForge-AI — Autonomous Pinterest & E-Commerce Automation**](https://github.com/Sam-CodesAI/PinForge-AI) `v2.0.0`
+> **GitHub:** [https://github.com/Sam-CodesAI/PinForge-AI](https://github.com/Sam-CodesAI/PinForge-AI) · **Release:** [`v2.0.0`](https://github.com/Sam-CodesAI/PinForge-AI/releases/tag/v2.0.0)
 
-Edge-native voice AI telephony assistant supporting real-time Indian accent adaptation and low-latency audio pipelines:
-* **The Pitch:** Eliminates robotic IVR delays by streaming sub-second, accent-adaptive voice conversations through Twilio SIP trunks with SutraDB RAG.
+An autonomous Pinterest commerce automation engine converting trending retail products into viral image pins:
+* **The Pitch:** Runs automated trend discovery, visual asset generation via Pollinations AI, and affiliate pin scheduling with zero manual intervention.
 * **Architecture Specs:**
-  * **Frontend:** Next.js 16 Edge, Web Audio API visualizers, dynamic persona switcher.
-  * **Data Layer:** SutraDB sub-millisecond grounded RAG + session memory buffer.
-  * **Integration:** Twilio SIP Trunking + ElevenLabs streaming WebSocket engine.
-* **Performance:** Sub-second speech turnaround (<850ms TTL) with <50ms Cloudflare Worker edge failover.
+  * **Engine:** Python 3.13 / FastAPI, async HTTP pipelines (`httpx`, `curl_cffi`).
+  * **Storage:** Durable Supabase PostgreSQL (`pinforge_pins`, `pinforge_analytics`) with PostgREST idempotency.
+  * **Deduplication:** `SutraDBCatalogMatcher` checking vector embeddings against product collections.
+* **Performance:** 100% automated daily publishing pipeline with 62/62 passing test suites.
+
+---
+
+### 5. 🤖 [**Teleflow Agent — Autonomous Telegram Lead Qualifier**](https://github.com/Sam-CodesAI/teleflow-agent) `v2.0.0`
+> **GitHub:** [https://github.com/Sam-CodesAI/teleflow-agent](https://github.com/Sam-CodesAI/teleflow-agent) · **Release:** [`v2.0.0`](https://github.com/Sam-CodesAI/teleflow-agent/releases/tag/v2.0.0)
+
+An asynchronous conversational lead qualification & edge CRM router:
+* **The Pitch:** Eliminates lost customer inquiries by qualifying client project briefs and inserting verified leads into Supabase within 3 seconds.
+* **Architecture Specs:**
+  * **Core Agent:** 4-phase deterministic state machine with interactive inline keyboards.
+  * **Data Layer:** Durable Supabase PostgreSQL session backing with in-memory MRU/LRU caching.
+  * **Container:** Scoped `rootDir: "src"` emitting direct `dist/index.js` for Docker deployments.
+* **Performance:** Multi-turn conversation state machine with 100% schema compliance and sub-300ms response turnaround.
 
 ---
 
