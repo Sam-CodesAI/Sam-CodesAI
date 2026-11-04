@@ -105,10 +105,10 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 ## 📢 4. Recent GitHub Activity Feed
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform/pull/1) in [Sam-CodesAI/VaniEdge-Voice-Platform](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform)
-2. 💪 Opened PR [#1](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform/pull/1) in [Sam-CodesAI/VaniEdge-Voice-Platform](https://github.com/Sam-CodesAI/VaniEdge-Voice-Platform)
-3. 💪 Opened PR [#1](https://github.com/Sam-CodesAI/Sam-Codes/pull/1) in [Sam-CodesAI/Sam-Codes](https://github.com/Sam-CodesAI/Sam-Codes)
-4. 🧠 Grounded deterministic knowledge assistant for client Q&A
+1. 🚀 Published release [v2.2.0 — PyPI Production Release (FastAPI ASGI & Candidate-Pruned RRF)](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v2.2.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+2. 🚀 Published release [v2.0.0 — Unified Command Center, SutraDB Semantic RAG & Next.js 16](https://github.com/Sam-CodesAI/Sam-Codes/releases/tag/v2.0.0) in [Sam-CodesAI/Sam-Codes](https://github.com/Sam-CodesAI/Sam-Codes)
+3. 🚀 Published release [v2.0.0 — Container Hardening, Supabase Sessions & Resilient Lead Ingestion](https://github.com/Sam-CodesAI/teleflow-agent/releases/tag/v2.0.0) in [Sam-CodesAI/teleflow-agent](https://github.com/Sam-CodesAI/teleflow-agent)
+4. 🚀 Published release [v2.0.0 — Relational Storage, Async HTTP & SutraDB Deduplication](https://github.com/Sam-CodesAI/PinForge-AI/releases/tag/v2.0.0) in [Sam-CodesAI/PinForge-AI](https://github.com/Sam-CodesAI/PinForge-AI)
 <!--END_SECTION:activity-->
 
 > *⚡ Automatically synchronized via GitHub Action (`.github/workflows/activity.yml`).*
