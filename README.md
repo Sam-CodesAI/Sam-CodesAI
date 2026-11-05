@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/⚡_AVAILABILITY-OPEN_FOR_BUILDS-04060c?style=for-the-badge&logo=codeforces&logoColor=34d399&labelColor=0f172a" alt="Status" />
   </a>
   <a href="https://pypi.org/project/sutradb-core/" target="_blank">
-    <img src="https://img.shields.io/badge/📦_PyPI-sutradb--core_v2.1.1-04060c?style=for-the-badge&logo=pypi&logoColor=00f0ff&labelColor=1e293b" alt="PyPI Package" />
+    <img src="https://img.shields.io/badge/📦_PyPI-sutradb--core_v2.2.0-04060c?style=for-the-badge&logo=pypi&logoColor=00f0ff&labelColor=1e293b" alt="PyPI Package" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS">
     <img src="https://komarev.com/ghpvc/?username=Sam-CodesAI&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -271,7 +271,7 @@ A full-stack production platform and 14-table Supabase administrative command ce
 ---
 
 ### 2. 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB) `v2.0.0`
-> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB) · **Release:** [`v2.0.0`](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v2.0.0)
+> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) (v2.2.0 Live) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB) · **Release:** [`v2.2.0`](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v2.2.0)
 
 An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered in pure Python:
 * **The Pitch:** Eliminates 50ms cloud SaaS roundtrips and multi-gigabyte container overhead with sub-0.4ms P50 hybrid retrieval, FastAPI ASGI server, and candidate-pruned RRF.
