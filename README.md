@@ -105,10 +105,10 @@ CSS / HTML   ████                        9.3 %   Tailwind CSS v4 & Respo
 ## 📢 4. Recent GitHub Activity Feed
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.4.0: Hardware & NLP Scaling (SIMD Auto-Dispatch, Rayon Multicore & Multi-Lingual NLP)](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v3.4.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
-2. 🚀 Published release [v3.3.0 — Product Quantization (PQ) with Asymmetric Distance Computation (ADC)](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v3.3.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
-3. 🚀 Published release [v3.2.0 — 1-Bit Binary Quantization (BQ), Online HNSW Healing & Geo-Spatial](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v3.2.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
-4. 🚀 Published release [v3.1.0 — LangChain/LlamaIndex Official Connectors, Embedded Web Console, Nested AST Filtering](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v3.1.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+1. 🚀 Published release [v5.1.0: Zero-Build Embedded Developer Workbench](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v5.1.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+2. 🚀 Published release [v5.0.0: Industrial Distributed Edition (gRPC, ColBERT MaxSim, Quad-Modal Search)](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v5.0.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+3. 🚀 Published release [v3.4.0: Hardware & NLP Scaling (SIMD Auto-Dispatch, Rayon Multicore & Multi-Lingual NLP)](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v3.4.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
+4. 🚀 Published release [v3.3.0 — Product Quantization (PQ) with Asymmetric Distance Computation (ADC)](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v3.3.0) in [Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB)
 <!--END_SECTION:activity-->
 
 > *⚡ Automatically synchronized via GitHub Action (`.github/workflows/activity.yml`).*
