@@ -270,16 +270,16 @@ A full-stack production platform and 14-table Supabase administrative command ce
 
 ---
 
-### 2. 🧠 [**SutraDB (सूत्र DB) — Zero-Dependency Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB) `v2.0.0`
-> **PyPI:** [`pip install sutradb-core`](https://pypi.org/project/sutradb-core/) (v2.2.0 Live) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB) · **Release:** [`v2.2.0`](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v2.2.0)
+### 2. 🧠 [**SutraDB (सूत्र DB) — Embedded Rust + Python Hybrid Vector Database**](https://github.com/Sam-CodesAI/SutraDB) `v5.5.0`
+> **PyPI:** [`pip install sutradb-core==5.5.0`](https://pypi.org/project/sutradb-core/) (Linux/macOS/Windows wheels + standalone zero-Python Rust `sutradb-server` binary) · **GitHub:** [https://github.com/Sam-CodesAI/SutraDB](https://github.com/Sam-CodesAI/SutraDB) · **Release:** [`v5.5.0`](https://github.com/Sam-CodesAI/SutraDB/releases/tag/v5.5.0)
 
-An ultra-fast, zero-dependency hybrid vector search & BM25 lexical engine engineered in pure Python:
-* **The Pitch:** Eliminates 50ms cloud SaaS roundtrips and multi-gigabyte container overhead with sub-0.4ms P50 hybrid retrieval, FastAPI ASGI server, and candidate-pruned RRF.
+An embedded Rust + Python hybrid vector, lexical, and late-interaction search engine engineered with runtime SIMD dispatch:
+* **The Pitch:** Ships as `pip install sutradb-core==5.5.0` with prebuilt Linux/macOS/Windows wheels or a standalone zero-Python Rust `sutradb-server` binary, delivering sub-millisecond retrieval without cloud roundtrips or heavy cluster overhead.
 * **Architecture Specs:**
-  * **Core Engine:** Pure Python 3.12, NumPy BLAS (GEMV SIMD pre-normalized unit vectors), Writer-Preference `ReadWriteLock`.
-  * **Data Layer:** Zero-copy mmap (`.sutra` binary container) + append-only CRC32 Write-Ahead Log (WAL) with bitmask soft tombstones.
-  * **Hybrid Search:** Robertson-Spärck Jones BM25Okapi + SIMD Cosine similarity via Candidate-Pruned Reciprocal Rank Fusion (RRF).
-* **Performance:** **0.36ms P50 latency**, 52,000+ docs/sec ingestion throughput, ~22MB RAM footprint for 5,000 documents.
+  * **Core Engine:** Unified Rust core (`NativeCollection`) with single-slab contiguous arenas, runtime-dispatched `std::arch` SIMD (AVX-512F, AVX2+FMA, ARM NEON), and zero-copy PyO3 ABI3 NumPy bindings (`70.5K docs/s` ingest).
+  * **Quad-Modal Retrieval & Filtering:** Flat dense HNSW (Algorithm 4 + parallel Rayon build), lock-free sparse BM25, WAND sparse SPLADE, ColBERT MaxSim, and a cost-based `RoaringBitmap` SIMD planner for tight metadata filters.
+  * **Storage & Production Hardening:** Atomic `.sutra.idx` sidecar persistence (`3.07 s` cold load at 100K × 768d), buffered `SWB1` binary WAL (verified 100% recovery across 3× `kill -9`), constant-time API key RBAC, and Prometheus `0.0.4` histograms.
+* **Verified Performance (`100K × 768d`, 2-vCPU AVX2/FMA, `332/332` CI tests passing):** **0.187 ms P50** (`4,913.9 QPS`, `100%` Recall@10) 1%-filtered Roaring SIMD; **0.417 ms P50** (`2,291.2 QPS`, `100%` Recall@10) unfiltered HNSW (`m=16`); **2.043 ms P50** (`9.2 MiB` RAM, `92.1%` Recall@10) 32× mmap-evicted 1-Bit BQ.
 
 ---
 
